@@ -1,4 +1,4 @@
-# Welcome
+# Welcome 1
 Welcome to the AI-on-the-edge-device!
 This is the project documentation. For the source code, please head to [github.com/jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device).
 
